@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#
+env.properties
+
 # Build Output
 
 /target/
