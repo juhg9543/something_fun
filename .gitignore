@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# Build Output
+
+/target/
+/Build
+/java-upgrade/
+/node_modules/
+/build/
+/dist/
+
 # Log file
 *.log
 

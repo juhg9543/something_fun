@@ -4,3 +4,12 @@ server.port=8080
 # Logging
 logging.level.root=INFO
 logging.level.com.example.something_fun=DEBUG
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: github-client-id
+            clientSecret: github-client-secret
+# ...
